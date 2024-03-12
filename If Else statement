@@ -1,0 +1,14 @@
+a = True
+b = False
+c = True
+if a:
+    print("It is true. ")
+    print("Also Print this")
+if b:
+    print("Both are true. ")
+if c:
+        print("All three are true. ")
+
+else:
+    print("It is False!")
+print("always print this!")
